@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
