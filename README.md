@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting Sort
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1672-richest-customer-wealth) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
