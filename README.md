@@ -10,15 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
