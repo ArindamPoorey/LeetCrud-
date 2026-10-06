@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
