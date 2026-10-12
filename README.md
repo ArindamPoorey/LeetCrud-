@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/ArindamPoorey/LeetCrud-/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
