@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/ArindamPoorey/LeetCrud-/tree/master/2235-add-two-integers) |
