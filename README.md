@@ -119,9 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
