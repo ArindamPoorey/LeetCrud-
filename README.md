@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArindamPoorey/LeetCrud-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
