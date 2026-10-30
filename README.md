@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0389-find-the-difference) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0344-reverse-string) |
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0206-reverse-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
