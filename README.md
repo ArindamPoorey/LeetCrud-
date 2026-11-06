@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ArindamPoorey/LeetCrud-/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ArindamPoorey/LeetCrud-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArindamPoorey/LeetCrud-/tree/master/2089-find-target-indices-after-sorting-array) |
